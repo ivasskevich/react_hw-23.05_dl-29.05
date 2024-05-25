@@ -1,0 +1,40 @@
+.global-box {
+  display: flex;
+}
+
+.box1 {
+  background-color: rgba(2, 0, 141, 0.699);
+  width: fit-content;
+  padding: 20px;
+  color: white;
+}
+
+.box1 img {
+  width: 280px;
+  border-radius: 10px;
+}
+
+.text2 {
+  width: 280px;
+}
+
+.ClubCoatfArms-img {
+  width: 100px;
+}
+
+.ClubPhoto-img {
+  width: 400px;
+  border-radius: 10px;
+}
+
+.box-photos {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.box3 {
+  background-color: aquamarine;
+  width: fit-content;
+  padding: 20px;
+}
